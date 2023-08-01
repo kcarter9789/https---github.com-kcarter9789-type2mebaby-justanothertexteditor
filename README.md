@@ -1,4 +1,4 @@
-# Just Another Text Editor
+# TYPE2MEBABY -JustAnother-Text Editor
 
 This project aims to build a text editor that runs in the browser and fulfills the criteria of a Progressive Web Application (PWA). The application will also utilize various data persistence techniques to ensure redundancy, even in offline scenarios.
 
